@@ -40,5 +40,6 @@ public class Main {
         for (int u = 0; u < num1.length; u++)
         if (num1 [u] % 2 != 0)
         System.out.println(num1[u] + 1);
+        System.out.println("Очень жду комментарии!!!");
     }
     }
